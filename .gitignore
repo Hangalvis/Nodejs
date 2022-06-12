@@ -6,3 +6,6 @@
 /ProyectNode/node_modules
 /NodeToken/node_modules
 /NodejsEnv/node_modules
+/NodejsStatic/node_modules
+/NodejsExpressValidator/node_modules
+/nodejsSequelize/node_modules
